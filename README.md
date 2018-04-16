@@ -18,5 +18,5 @@ There are two programs:
     
 ## Usage
 
-$ python consumer.py /n
+$ python consumer.py
 $ python producer.py
