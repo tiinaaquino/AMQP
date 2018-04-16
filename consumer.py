@@ -1,3 +1,4 @@
+# reference: https://www.rabbitmq.com/tutorials/tutorial-one-python.html
 import pika
 
 connection = pika.BlockingConnection(pika.ConnectionParameters(host = 'localhost'))
